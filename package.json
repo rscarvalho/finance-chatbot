@@ -1,0 +1,23 @@
+{
+  "name": "finance-chatbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rscarvalho/finance-chatbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rscarvalho/finance-chatbot/issues"
+  },
+  "homepage": "https://github.com/rscarvalho/finance-chatbot#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
